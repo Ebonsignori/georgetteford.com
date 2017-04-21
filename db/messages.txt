@@ -1,0 +1,91 @@
+MESSAGES:
+
+
+**New Message**:
+Name: Evan
+Email: Evanbonsignori@yahoo.com
+
+This is an email, and yes I want to stay In touch.
+**End**
+
+**New Message**:
+Name: NotEvan
+Email: NotevanIswar@yahoo.com
+
+This isn't evan and I didn't check the box.
+**End**
+
+
+gh@yahoo.com
+anotherattempt@yahoo.com
+**New Message**:
+Name: test1
+Email: evanb@test.com
+
+Checkbox is checked, message is sent...
+
+Are whitespaces accounted for?
+
+Checked Sign Up
+**End**
+
+**New Message**:
+Name: teset2
+Email: evan2@uajppasc
+
+Checkbox is unchecked. How many characters can my message be?
+asd
+asda
+sd
+as
+da
+sd
+a
+sd
+a
+sd
+as
+d
+as
+dhalwieuyhawkljeyhfaklsdjfyailweurtytawkldjfhasldkfjhasldfkjhasdlfkjahsdlfkjhasdfasdajkhkjlashdfjklahelkjfyhaskjlyertrkjasydkjtyaskjlytaskljdytklasdjytalskeutrhlaiwefdhalwieuyhawkljeyhfaklsdjfyailweurtytawkldjfhasldkfjhasldfkjhasdlfkjahsdlfkjhasdfasdajkhkjlashdfjklahelkjfyhaskjlyertrkjasydkjtyaskjlytaskljdytklasdjytalskeutrhlaiwefdhalwieuyhawkljeyhfaklsdjfyailweurtytawkldjfhasldkfjhasldfkjhasdlfkjahsdlfkjhasdfasdajkhkjlashdfjklahelkjfyhaskjlyertrkjasydkjtyaskjlytaskljdytklasdjytalskeutrhlaiwef
+
+Did not check Sign Up
+**End**
+
+**New Message**:
+Name: efa
+Email: af
+
+checked
+
+Signup Checkbox = Checked
+**End**
+
+**New Message**:
+Name: afw
+Email: awf
+
+unchecked test
+
+Signup Checkbox = Unchecked :(
+**End**
+
+NewsletterSignup@yahoo.com
+**New Message**:
+Name: 
+Email: 
+
+
+
+Signup Checkbox = Checked
+**End**
+
+**New Message**:
+Name: Julian Cooper
+Email: juliancooper.mkt@gmail.com
+
+Do you wish you could increase your online leads? We have helped a lot of businesses thrive in this market and we can help you! Simply hit reply and I’ll share with you the cost and the benefits.
+
+
+Signup Checkbox = Checked
+**End**
