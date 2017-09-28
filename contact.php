@@ -69,7 +69,7 @@ if(isset($_REQUEST["name"])) {
 <!-- Elements -->
 <article id="viewMsg">
 <h3> Your Message: </h3>
-<p> <?php echo $message ?> </p>
+<pre class="message-view"><?php echo  $message ?></pre>
 </article>
 
 
